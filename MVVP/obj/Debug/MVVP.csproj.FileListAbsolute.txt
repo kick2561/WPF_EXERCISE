@@ -1,0 +1,16 @@
+C:\Users\CB185249\source\repos\MVVP\MVVP\bin\Debug\MVVP.exe.config
+C:\Users\CB185249\source\repos\MVVP\MVVP\bin\Debug\MVVP.exe
+C:\Users\CB185249\source\repos\MVVP\MVVP\bin\Debug\MVVP.pdb
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP.csprojAssemblyReference.cache
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\View\MainWindow.g.cs
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\App.g.cs
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP_MarkupCompile.cache
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP_MarkupCompile.lref
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\View\MainWindow.baml
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP.g.resources
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP.Properties.Resources.resources
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP.csproj.GenerateResource.cache
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP.csproj.CoreCompileInputs.cache
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP.exe
+C:\Users\CB185249\source\repos\MVVP\MVVP\obj\Debug\MVVP.pdb
